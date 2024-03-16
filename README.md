@@ -1,4 +1,6 @@
 # QR Code Generator Scripts
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 
 This repository contains two Python scripts for generating QR codes with various customization options.
 
@@ -60,4 +62,4 @@ This repository contains two Python scripts for generating QR codes with various
     pip install -r requirements.txt
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.

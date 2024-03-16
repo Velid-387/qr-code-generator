@@ -1,0 +1,16 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore generated QR code images
+*.png
+
+# Ignore IDE-specific files and directories
+.vscode/
+.idea/
+
+# Ignore system-specific files and directories
+__pycache__/
+.DS_Store
+
+# Ignore generated QR code directories
+qrcode_images/
