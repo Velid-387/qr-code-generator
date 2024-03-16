@@ -43,16 +43,21 @@ This repository contains two Python scripts for generating QR codes with various
    ```bash
    git clone https://github.com/your-username/qr-code-generator.git
 2. Navigate to the project directory:
-    ```cd qr-code-generator
+   ```bash
+    cd qr-code-generator
 3. Create a virtual environment (optional but recommended):
-    ```python -m venv venv
+   ```bash
+    python -m venv venv
 4. Activate the virtual environment:
 - On Windows:
-    ```venv\Scripts\activate
+   ```bash
+    venv\Scripts\activate
 - On macOS/Linux:
-    ```source venv/bin/activate
+   ```bash
+    source venv/bin/activate
 5. Install the required dependencies:
-    ```pip install -r requirements.txt
+   ```bash
+    pip install -r requirements.txt
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
